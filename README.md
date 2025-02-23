@@ -32,5 +32,5 @@ The CV includes the following sections:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/single-page-cv.git
+   git clone https://github.com/hussein-salim/single-page-cv.git
 
